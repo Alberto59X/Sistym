@@ -1,0 +1,3 @@
+grant codeBase "file:C:/Users/botel/eclipse-workspace/unievaRMI/bin/servico" {
+    permission java.security.AllPermission;
+};
